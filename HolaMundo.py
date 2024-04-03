@@ -9,3 +9,4 @@ if x == random.randint(1,6):
     print("¡Tu ganas!")
 else:
     print("Mala suerte.")
+    
